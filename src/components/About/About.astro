@@ -1,0 +1,26 @@
+---
+import SocialIcons from '../SocialIcons.astro';
+import Title from '../atoms/Title.astro';
+import "./about.css"
+
+
+---
+
+<section id="about" class="about">
+	<div class="about__container">
+		<img
+			class="about__img"
+			src="../img/cat3.png"
+			alt="Foto de perfil de RafaDev"
+		/>
+
+		<div class="about__content">
+			<Title margin="1rem" contenido="Sobre mí" />
+			<p class="about__text">
+				Soy Rafael Andrés Rossel Galarza, tengo 24 años y soy un apasionado del desarrollo de software. Estudié Ingeniería de Sistemas y soy de Perú 🇵🇪. Con 3 años de experiencia en el desarrollo frontend, he enfocado mi carrera en crear soluciones innovadoras y eficientes para aplicaciones web.
+			</p>
+			<SocialIcons width="25" height="25"/>
+		</div>
+	</div>
+
+</section>
