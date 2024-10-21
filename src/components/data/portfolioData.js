@@ -22,8 +22,8 @@ export const portafolioData = [
 		skills: ['Vue', 'vuetifyjs' , 'Nestjs', 'mysql'],
 		descripcion:
 			'eDispatch es el conjunto de app, web y electrónica  para la gestion de despachos de productos liquidos, como el combustible, agua, etc.',
-		demoURL: '',
-		repoURL: '',
+		demoURL: 'https://edispatch.vercel.app/',
+		repoURL: 'https://github.com/RafaredD19/frontend-edispatch',
 		anim: 'fade-right',
 	},
 	{
@@ -33,8 +33,8 @@ export const portafolioData = [
 		skills: ['Angular', 'Tailwind', 'Nestjs', 'mongodb'],
 		descripcion:
 			' Beacons es una plataforma de monitoreo indoor para diferentes situaciones de negocio, usando beacons y gateways. ',
-		demoURL: '',
-		repoURL: '',
+		demoURL: 'http://198.211.99.223:5070/',
+		repoURL: 'https://github.com/RafaredD19/frontend-beacons',
 		anim: 'fade-up',
 		//averageBrightness: 0.1,
 	},
@@ -45,8 +45,8 @@ export const portafolioData = [
 		skills: ['Vue', 'vuetifyjs', 'Express' , 'mysql'],
 		descripcion:
 			'Plataforma para gestionar las citas medicas de centros de salud',
-		demoURL: '',
-		repoURL: '',
+		demoURL: 'https://github.com/RafaredD19/frontend-MediCita',
+		repoURL: 'https://github.com/RafaredD19/frontend-MediCita',
 		anim: 'fade-left',
 	},
 	{
@@ -56,8 +56,8 @@ export const portafolioData = [
 		skills: ['Vue', 'vuetifyjs' , 'Express', 'mysql'],
 		descripcion:
 			'FerroGest es una plataforma para el control de inventario de una ferreteria',
-		demoURL: '',
-		repoURL: '',
+		demoURL: 'https://github.com/RafaredD19/frontend-FerroGest',
+		repoURL: 'https://github.com/RafaredD19/frontend-FerroGest',
 		anim: 'fade-left',
 	},
 	{
@@ -67,7 +67,7 @@ export const portafolioData = [
 		skills: ['Vue', 'vuetifyjs', 'Nestjs', 'mongodb'],
 		descripcion:
 			'Monitor S4 es una plataforma integrada con Wialon para atender eventos de cada vehiculo,l previamente configurado en wialon para la retransmisión',
-		demoURL: '',
+		demoURL: 'http://67.205.164.216:3040/login',
 		repoURL: '',
 		anim: 'fade-left',
 	},
@@ -78,7 +78,7 @@ export const portafolioData = [
 		skills: ['Vue', 'vuetifyjs', 'Nestjs', 'mysql'],
 		descripcion:
 			'QuoteFast es una plataforma para la generación de cotizaciones y toda su gestión, integrado con SAP.',
-		demoURL: '',
+		demoURL: 'http://204.48.17.106:3050',
 		repoURL: '',
 		anim: 'fade-right',
 	}
