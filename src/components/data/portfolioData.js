@@ -17,67 +17,67 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: '../img/cat3.png',
+		imgSrc: '../img/edispatch.png',
 		title: 'Edistpatch',
 		skills: ['Vue', 'vuetifyjs' , 'Nestjs', 'mysql'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'eDispatch es el conjunto de app, web y electrónica  para la gestion de despachos de productos liquidos, como el combustible, agua, etc.',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '../img/cat3.png',
+		imgSrc: '../img/beacons.png',
 
 		title: 'Beacons',
 		skills: ['Angular', 'Tailwind', 'Nestjs', 'mongodb'],
 		descripcion:
-			' Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			' Beacons es una plataforma de monitoreo indoor para diferentes situaciones de negocio, usando beacons y gateways. ',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-up',
-		averageBrightness: 0.1,
+		//averageBrightness: 0.1,
 	},
 	{
-		imgSrc: '../img/cat3.png',
+		imgSrc: '../img/medicita.png',
 	
 		title: 'Medicita',
 		skills: ['Vue', 'vuetifyjs', 'Express' , 'mysql'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Plataforma para gestionar las citas medicas de centros de salud',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: '../img/cat3.png',
+		imgSrc: '../img/ferrogest.png',
 		
 		title: 'FerroGest',
 		skills: ['Vue', 'vuetifyjs' , 'Express', 'mysql'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'FerroGest es una plataforma para el control de inventario de una ferreteria',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: '../img/cat3.png',
+		imgSrc: '../img/monitors4.png',
 		
 		title: 'Monitor S4',
-		skills: ['Vue', 'vuetifyjs', 'mongodb'],
+		skills: ['Vue', 'vuetifyjs', 'Nestjs', 'mongodb'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Monitor S4 es una plataforma integrada con Wialon para atender eventos de cada vehiculo,l previamente configurado en wialon para la retransmisión',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: '../img/cat3.png',
+		imgSrc: '../img/mixercon.png',
 		
 		title: 'QuoteFast',
 		skills: ['Vue', 'vuetifyjs', 'Nestjs', 'mysql'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'QuoteFast es una plataforma para la generación de cotizaciones y toda su gestión, integrado con SAP.',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-right',
