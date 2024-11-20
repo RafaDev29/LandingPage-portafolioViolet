@@ -1,37 +1,38 @@
 :root {
-	/* color  */
-	--primary-0: #190230;
-	--primary-10: #2b1560;
-	--primary-20: #442288;
-	--primary-30: #5529ae;
-	--primary-40: #6632cf;
-	--primary-50: #7644e3;
-	--primary-60: #8664ee;
-	--primary-70: #a491f4;
-	--primary-80: #c2b9f9;
-	--primary-90: #dcd8fc;
-	--primary-95: #edeafd;
-	--primary-99: #f4f4fe;
+	/* colores oscuros */
+	--primary-0: #0a0a0f;
+	--primary-10: #13131a;
+	--primary-20: #1e1e2a;
+	--primary-30: #29293a;
+	--primary-40: #34344b;
+	--primary-50: #3f3f5b;
+	--primary-60: #4a4a6c;
+	--primary-70: #5a5a80;
+	--primary-80: #6a6a94;
+	--primary-90: #7a7aa8;
+	--primary-95: #8a8abd;
+	--primary-99: #9a9ad1;
 	--primary-100: #ffffff;
-	--secondary-0: #1c050e;
-	--secondary-10: #490e25;
-	--secondary-20: #782344;
-	--secondary-30: #87224a;
-	--secondary-40: #ae285f;
-	--secondary-50: #c93978;
-	--secondary-60: #dc5898;
-	--secondary-70: #e77fb4;
-	--secondary-80: #f1b0d3;
-	--secondary-90: #f7d3e7;
-	--secondary-95: #fae9f3;
-	--secondary-99: #fcf3f8;
+
+	--secondary-0: #0d0d0d;
+	--secondary-10: #191919;
+	--secondary-20: #242424;
+	--secondary-30: #303030;
+	--secondary-40: #3b3b3b;
+	--secondary-50: #464646;
+	--secondary-60: #515151;
+	--secondary-70: #6b6b6b;
+	--secondary-80: #858585;
+	--secondary-90: #9e9e9e;
+	--secondary-95: #b8b8b8;
+	--secondary-99: #d1d1d1;
 	--secondary-100: #ffffff;
 
 	/* colores de las propiedades */
-	--surface: #4F4360;
-	--surface-variant: #e0d8e7;
-	--surface-dim: #998da9;
-	--surface-bridge: #d6cdee;
+	--surface: #2c2c36;
+	--surface-variant: #393945;
+	--surface-dim: #50505e;
+	--surface-bridge: #6a6a7e;
 
 	--primary: var(--primary-60);
 	--on-surface-primary: var(--primary-10);
@@ -41,7 +42,7 @@
 	--on-surface-secondary: var(--secondary-95);
 	--on-secondary: var(--secondary-95);
 
-	/* texto  */
+	/* texto */
 	--text-small: 1.2rem;
 	--text-medium: 1.4rem;
 	--text-large: 1.6rem;
@@ -63,11 +64,11 @@
 
 	--text-gradient: radial-gradient(
 		circle farthest-corner at center center,
-		#58f9ff 0%,
-		#df44e7 100%
+		#6a6a94 0%,
+		#34344b 100%
 	);
 }
-*{
+* {
 	box-sizing: border-box;
 }
 html {
@@ -83,7 +84,7 @@ body {
 main {
 	align-self: center;
 }
-p{
+p {
 	color: var(--primary-100);
 	font-size: var(--text-general);
 }
