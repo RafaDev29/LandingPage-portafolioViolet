@@ -16,10 +16,10 @@
 .about__img {
 	
 	object-fit: cover;
-	width: 39.5rem;
-	height: 48.1rem;
-	min-width: 39.5rem;
-	min-height: 48.1rem;
+	width: 25.5rem;
+	height: 27.1rem;
+	min-width: 25.5rem;
+	min-height: 25.1rem;
 	
 	animation: float 3s ease-in-out infinite; /* Animación de flotación */
 }
