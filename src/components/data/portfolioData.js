@@ -23,7 +23,7 @@ export const portafolioData = [
 		descripcion:
 			'eDispatch es el conjunto de app, web y electrónica  para la gestion de despachos de productos liquidos, como el combustible, agua, etc.',
 		demoURL: 'https://edispatch.vercel.app/',
-		repoURL: 'https://github.com/RafaredD19/frontend-edispatch',
+		repoURL: 'https://github.com/D19/frontend-edispatch',
 		anim: 'fade-right',
 	},
 	{
@@ -34,7 +34,7 @@ export const portafolioData = [
 		descripcion:
 			' Beacons es una plataforma de monitoreo indoor para diferentes situaciones de negocio, usando beacons y gateways. ',
 		demoURL: 'http://198.211.99.223:5070/',
-		repoURL: 'https://github.com/RafaredD19/frontend-beacons',
+		repoURL: 'https://github.com/RafaDev29/frontend-beacons',
 		anim: 'fade-up',
 		//averageBrightness: 0.1,
 	},
@@ -45,8 +45,8 @@ export const portafolioData = [
 		skills: ['Vue', 'vuetifyjs', 'Express' , 'mysql'],
 		descripcion:
 			'Plataforma para gestionar las citas medicas de centros de salud',
-		demoURL: 'https://github.com/RafaredD19/frontend-MediCita',
-		repoURL: 'https://github.com/RafaredD19/frontend-MediCita',
+		demoURL: 'https://github.com/RafaDev29/frontend-MediCita',
+		repoURL: 'https://github.com/RafaDev29/frontend-MediCita',
 		anim: 'fade-left',
 	},
 	{
@@ -56,8 +56,8 @@ export const portafolioData = [
 		skills: ['Vue', 'vuetifyjs' , 'Express', 'mysql'],
 		descripcion:
 			'FerroGest es una plataforma para el control de inventario de una ferreteria',
-		demoURL: 'https://github.com/RafaredD19/frontend-FerroGest',
-		repoURL: 'https://github.com/RafaredD19/frontend-FerroGest',
+		demoURL: 'https://github.com/RafaDev29/frontend-FerroGest',
+		repoURL: 'https://github.com/RafaDev29/frontend-FerroGest',
 		anim: 'fade-left',
 	},
 	{

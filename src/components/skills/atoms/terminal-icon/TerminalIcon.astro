@@ -3,12 +3,12 @@ import terminalIcon from './terminal-icon.module.css';
 interface Props {
 	name: string;
 	src: string;
-	color: string;
+	
 }
-const { name, src, color } = Astro.props;
+const { name, src } = Astro.props;
 ---
 
-<div class={terminalIcon.base} style=`--icon-color: ${color};`>
-	<div class={terminalIcon.icon} style=`--svg: url(${src})`></div>
+<div class={terminalIcon.base}>
+	<div class={terminalIcon.icon} style={`--icon-url: url(${src})`}></div>
 	<span class={terminalIcon.name}>{name}</span>
 </div>

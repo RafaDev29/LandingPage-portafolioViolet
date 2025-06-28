@@ -7,7 +7,7 @@
 }
 .base {
 	width: min-content;
-	color: var(--icon-color);
+
 }
 .icon {
 	font-size: 9rem;
@@ -17,14 +17,11 @@
 	font-size: var(--text-general);
 }
 .icon {
-	display: inline-block;
-	width: 1em;
-	height: 1em;
-	background-color: currentColor;
-	-webkit-mask-image: var(--svg);
-	mask-image: var(--svg);
-	-webkit-mask-repeat: no-repeat;
-	mask-repeat: no-repeat;
-	-webkit-mask-size: 100% 100%;
-	mask-size: 100% 100%;
+	width: 10rem;
+	height: 10rem;
+	background-image: var(--icon-url);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
 }
+
